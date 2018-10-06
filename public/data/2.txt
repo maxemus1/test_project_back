@@ -1,0 +1,100 @@
+58.153.7.124|ie|ios
+100.132.198.75|chrome|ios
+254.82.29.196|cli|mac os
+91.250.139.34|cli|mac os
+19.129.255.33|firefox|linux
+227.57.31.27|chrome|windows
+20.211.125.196|cli|ios
+22.249.173.108|ie|android
+212.198.132.54|chrome|ios
+29.55.148.209|chrome|windows
+207.160.25.128|firefox|windows
+212.141.29.187|ie|mac os
+18.212.66.202|chrome|android
+209.36.217.219|chrome|windows
+201.200.104.100|firefox|ios
+194.217.34.7|chrome|ios
+220.142.88.147|chrome|mac os
+220.163.197.224|cli|linux
+211.152.15.115|ie|ios
+48.133.114.144|ie|ios
+163.2.79.56|ie|windows
+109.18.65.160|cli|mac os
+252.151.56.250|ie|ios
+220.135.11.219|cli|ios
+123.219.127.51|chrome|windows
+159.53.16.112|cli|windows
+197.229.184.27|chrome|windows
+68.122.98.207|cli|ios
+58.161.207.204|chrome|windows
+128.107.215.19|chrome|mac os
+216.224.184.4|chrome|mac os
+224.232.5.248|ie|linux
+236.91.216.7|chrome|ios
+88.106.209.176|cli|android
+128.243.120.231|chrome|mac os
+78.24.3.44|chrome|android
+175.28.216.8|cli|linux
+166.150.172.85|ie|ios
+127.219.35.56|firefox|ios
+158.221.124.62|chrome|windows
+188.208.85.134|cli|android
+28.246.176.108|firefox|linux
+158.72.17.29|firefox|linux
+28.35.175.112|firefox|mac os
+43.83.163.178|firefox|windows
+83.209.177.34|ie|linux
+25.197.169.12|cli|mac os
+45.163.194.205|cli|mac os
+216.194.134.134|firefox|ios
+24.174.148.4|chrome|linux
+54.83.18.33|firefox|mac os
+201.254.148.211|chrome|linux
+51.46.168.205|cli|android
+18.123.247.2|ie|ios
+249.174.57.54|ie|windows
+18.184.104.13|firefox|linux
+100.207.10.158|ie|ios
+141.158.236.246|cli|windows
+123.142.216.164|firefox|windows
+225.55.14.23|cli|mac os
+112.228.109.174|cli|mac os
+66.136.120.32|cli|ios
+52.7.255.174|ie|linux
+8.56.202.101|firefox|ios
+40.243.64.142|chrome|mac os
+254.247.128.227|cli|windows
+70.247.32.55|ie|mac os
+14.105.142.73|firefox|android
+8.217.212.152|ie|windows
+11.51.8.100|cli|android
+108.97.29.130|ie|linux
+152.117.186.88|chrome|linux
+144.114.180.98|ie|linux
+241.48.94.222|ie|windows
+22.65.224.232|cli|android
+7.120.193.23|firefox|android
+10.222.193.147|cli|linux
+39.43.31.26|chrome|mac os
+153.120.89.157|chrome|android
+152.71.12.238|cli|mac os
+135.40.56.219|cli|android
+50.145.179.233|firefox|windows
+159.46.194.10|cli|ios
+12.81.248.150|cli|mac os
+68.97.68.132|ie|linux
+130.252.78.107|firefox|linux
+247.48.85.31|firefox|android
+58.254.227.34|cli|ios
+119.202.175.234|chrome|ios
+38.203.44.128|cli|linux
+246.77.127.120|chrome|mac os
+108.117.144.56|cli|android
+99.209.216.52|cli|mac os
+99.142.2.184|cli|mac os
+214.229.155.187|ie|ios
+19.202.151.224|ie|linux
+44.19.205.24|firefox|mac os
+59.77.139.132|chrome|linux
+224.30.172.163|cli|mac os
+236.169.216.116|firefox|mac os
